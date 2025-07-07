@@ -24,6 +24,9 @@ This application is built using [Julep AI](https://github.com/julep-ai/julep), a
 [![Demo Video](https://img.shields.io/badge/🎬-Watch%20Demo-red?style=for-the-badge)](https://drive.google.com/file/d/1zNUNB9SHz8lWA0_fupkXGz_q70vOTirO/view?usp=sharing)
 
 *Click the badge above to watch the full demo video showcasing all features of the Personalized Dining Advisor.*
+<p align="center">
+  <img src="Screenshot 2025-07-08 023942.png" alt="Alt text" width="1000">
+</p>
 
 ## ✨ Features
 
