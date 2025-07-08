@@ -231,7 +231,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Having issues or questions? I am  here to help!
 
 - 📧 **Email**: pranavdaware1.1@gmail.com
--
+
 
 
 
@@ -241,6 +241,5 @@ Having issues or questions? I am  here to help!
 
 **Made with ❤️ by the Pranav Daware**
 
-[⭐ Star us on GitHub](https://github.com/yourusername/personalized-dining-advisor) | [🍴 Fork](https://github.com/yourusername/personalized-dining-advisor/fork) | [📖 Docs](https://docs.dining-advisor.com)
-
+[⭐ Star us on GitHub](https://github.com/dawarepranav/julep-foodtour) | [🍴 Fork](https://github.com/dawarepranav/julep-foodtour/fork) 
 </div>
