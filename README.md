@@ -135,9 +135,9 @@ graph TB
 - **GPT-4 Integration**: Powers intelligent decision-making and content generation
 - **Multi-tool Coordination**: Seamlessly integrates weather and cuisine data sources
 
-### 🌐 External Integrations
+### 🌐 Integrations
 - **OpenWeatherMap**: Real-time weather data with forecasting
-- **Wikipedia**: Comprehensive cuisine and cultural information [ as i was not able to get brave web API key due to card issue 
+- **Wikipedia**: Comprehensive cuisine and cultural information **[ as i was not able to get Brave web API key due to card issue ]**
 - **Gradio**: Interactive web interface with real-time updates
 
 ### 🎨 User Interface
